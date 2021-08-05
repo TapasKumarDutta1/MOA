@@ -10,6 +10,5 @@ Used PCA for feature engineering
 
 
 ## References
-- https://www.kaggle.com/hiramcho/moa-tabnet-with-pca-rank-gauss
 - https://www.kaggle.com/c/lish-moa/discussion/180660
 - https://github.com/dreamquark-ai/tabnet
